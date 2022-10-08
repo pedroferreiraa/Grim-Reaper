@@ -6,6 +6,8 @@ TODO:
 
   I have some ideas to implement like working with forks to create more than 1024 file descriptors, so the program can create more than 1024 simultaneos connections.
   Other good idea is change the bad rand() pseudo-random function to another pseudo-number algorithm.
+  
+  ![image](https://user-images.githubusercontent.com/115036346/194679821-c3f603ce-b804-4a6b-b0e7-eade1c01f9e7.png)
 
 Compiling and executing the program.
 
